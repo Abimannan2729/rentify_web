@@ -1,0 +1,5 @@
+{
+  "name": "Rentify - Rental E-Commerce Platform",
+  "description": "A modern e-commerce platform where users can list and rent various items like tools, cameras, and event gear. It features user authentication, item management, location-based searching, and a sleek, animated user interface.",
+  "requestFramePermissions": []
+}
